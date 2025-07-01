@@ -1,4 +1,4 @@
-📊 Sales Trend Analysis (Task 6) — Data Analyst Internship
+📊 Sales Trend Analysis 
 This project analyzes monthly revenue and order volume from an online sales dataset using SQL aggregation functions.
 
 📌 Objective
